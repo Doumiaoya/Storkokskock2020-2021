@@ -3,3 +3,4 @@
 ## Maträtter
 
 * [Pocherad torsk med äggsås & stekt potatis och morot](Matratter01.md)
+* [Stekt lax med citrongräddsås och kokt potatis](Matratter02.md)
