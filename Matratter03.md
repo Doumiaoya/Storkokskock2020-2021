@@ -1,12 +1,13 @@
+
 ## Kalops med inlagda rödbetor
 
-Kalops - 6personer
+### Kalops - 6personer
 
-Ingredienser:
-### 1 kg nötkött, t ex bog eller högrev (1 1/2 kg med ben)
-### 200 gram morötter
-### 2 st gula lökar
-###3 msk kalvfond, koncentrerad
+#### Ingredienser:
+* 1 kg nötkött, t ex bog eller högrev (1 1/2 kg med ben)
+* 200 gram morötter
+* 2 st gula lökar
+* 3 msk kalvfond, koncentrerad
 o 2 st lagerblad
 o 12 st kryddpepparkorn
 o 2 msk vetemjöl
