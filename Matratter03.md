@@ -8,15 +8,15 @@
 * 200 gram morötter
 * 2 st gula lökar
 * 3 msk kalvfond, koncentrerad
-o 2 st lagerblad
-o 12 st kryddpepparkorn
-o 2 msk vetemjöl
-o 1 l vatten
-o smör, och olja till stekning
-o salt
-o vitpeppar
+* 2 st lagerblad
+* 12 st kryddpepparkorn
+* 2 msk vetemjöl
+* 1 l vatten
+* smör, och olja till stekning
+* salt
+* vitpeppar
 
-Gör så här:
+#### Gör så här:
 1. Putsa köttet och skär det i 3x3 cm stora bitar.
 2. Skala och skär morötter och lök i ca 2 cm stora bitar.
 3. Bryn köttet i 1 msk smör och 1 msk olja i en gryta.
@@ -27,16 +27,16 @@ tsk salt och vitpeppar efter smak.
 6. Koka upp och rör så att det inte fastnar i botten. Skumma av.
 7. Låt sjuda under lock tills köttet är mjukt, ca 1 1/2 timme. Smaka av med salt och peppar.
 
-Inlagda rödbetor- 6personer
+### Inlagda rödbetor- 6personer
 
-Ingredienser:
-o 3st stora rödbetor eller 6st små
-1-2-3 lag:
-o 3dl vatten
-o 2dl ättika
-o 1dl socker
+#### Ingredienser:
+* 3st stora rödbetor eller 6st små
+#### 1-2-3 lag:
+* 3dl vatten
+* 2dl ättika
+* 1dl socker
 
-Gör så här:
+#### Gör så här:
 1. Koka rödbetor mjuka i lättsaltat vatten
 2. Koka samtidigt en 1-2-3 lag
 3. kyl ner rödbetorna och lagen
