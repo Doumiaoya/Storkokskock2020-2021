@@ -7,3 +7,4 @@
 * [Kalops med inlagda rödbetor](Matratter03.md)
 * [Grundrecept till köttfärs](Matratter04.md)
 * [Kycklingschnitzel](Matratter05.md)
+* [Boeuf bourguignon med potatismos](Matratter06.md)
