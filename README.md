@@ -9,4 +9,4 @@
 * [Kycklingschnitzel](Matratter05.md)
 * [Boeuf bourguignon med potatismos](Matratter06.md)
 * [Duchesse potatis med torsk och räkor](Matratter07.md)
-* 
+* [Helstekt kotlettrad, potatis & blomkålsgratäng samt timjansmaksatt rödvinssky](Matratter08.md)
