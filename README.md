@@ -12,3 +12,4 @@
 * [Helstekt kotlettrad, potatis & blomkålsgratäng samt timjansmaksatt rödvinssky](Matratter08.md)
 * [Kokt kalv i dill sås (kalv i dill)](Matratter09.md)
 * [Köttfärslimpa med champinjonsås, kokt potatis och gelé och pressgurka](Matratter10.md)
+* [Kycklinggryta med ris](Matratter11.md)
