@@ -14,3 +14,4 @@
 * [Köttfärslimpa med champinjonsås, kokt potatis och gelé och pressgurka](Matratter10.md)
 * [Kycklinggryta med ris](Matratter11.md)
 * [Pasta med ratatouille, ruccolasallad och parmesan](Matratter12.md)
+* [Rubbad kycklingklubba, ugnsbakade rotfrukter, tomatsalsa och peppar majonnäs](Matratter13.md)
