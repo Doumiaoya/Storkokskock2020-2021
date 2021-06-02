@@ -15,3 +15,4 @@
 * [Kycklinggryta med ris](Matratter11.md)
 * [Pasta med ratatouille, ruccolasallad och parmesan](Matratter12.md)
 * [Rubbad kycklingklubba, ugnsbakade rotfrukter, tomatsalsa och peppar majonnäs](Matratter13.md)
+* [Chili con carne](Matratter14.md)
