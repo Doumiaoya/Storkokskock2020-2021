@@ -20,3 +20,4 @@
 * [Örtbakad torsk med rotsakspuré och brynt smör](Matratter16.md)
 * [Pocherad kolja med räkor, dill, ägg och pepparrot](Matratter17.md)
 * [Schnitzel med stekt potatis, rödvinssås, gröna ärtor och citronklyfta](Matratter18.md)
+* [Thaigryta med kyckling och röd currypasta](Matratter19.md)
