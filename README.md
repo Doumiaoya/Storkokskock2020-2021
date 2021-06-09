@@ -23,6 +23,7 @@
 * [Thaigryta med kyckling och röd currypasta](Matratter19.md)
 
 ## Såser
+* [Kalla emulsionssåser](Såser01.md)
 
 
 ## Specialkoster
