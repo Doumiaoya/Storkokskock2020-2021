@@ -28,6 +28,7 @@
 * [Espagnole – Mörk grundsås](Såser03.md)
 * [Velouté – Ljus grundsås](Såser04.md)
 * [Beurre blanc](Såser05.md)
+* [Vitvinssås](Såser06.md)
 
 
 ## Specialkoster
