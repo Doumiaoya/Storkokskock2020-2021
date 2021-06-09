@@ -1,4 +1,4 @@
-## Bechamelsås (vit grundsås)
+## Bechamelsås - vit grundsås
 
 #### Ingredienser: ca 4 portioner
 * 50g Smör
