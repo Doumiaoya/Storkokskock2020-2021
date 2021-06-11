@@ -55,6 +55,7 @@
 * [Äppelsmulpaj](Mellanmål04.md)
 * [Vitlöksbröd med Vitlökssmör](Mellanmål05.md)
 * [Pannkakor](Mellanmål06.md)
+* [American pancakes](Mellanmål07.md)
 
 
 ## Desserter
