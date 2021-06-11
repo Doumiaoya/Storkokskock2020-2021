@@ -23,7 +23,7 @@
 * [Thaigryta med kyckling och röd currypasta](Matratter19.md)
 * [Bouillabaisse - fisk soppa](Matratter20.md)
 * [Duchesse potatis](Matratter21.md)
-* [Halstrad lättgravad lax med dillstuvad potatis,hovmästarsås samt tomat och löksallad](Matratter22.md)
+* [Halstrad lättgravad lax med dillstuvad potatis,hovmästarsås/Béchamelsås samt tomat och löksallad](Matratter22.md)
 
 ## Såser
 * [Kalla emulsionssåser](Såser01.md)
