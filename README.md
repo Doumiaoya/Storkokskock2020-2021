@@ -42,8 +42,13 @@
 * [Champinjonsås](Såser13.md)
 
 
+## Sallader
+* [Ljummen potatissallad (Fransk potatissallad)](Sallader10.md)
+
+
 ## Mellanmål
 * [Skagenröra](Mellanmål01.md)
+
 
 ## Specialkoster
 
