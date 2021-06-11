@@ -52,6 +52,7 @@
 * [Friterad lök](Mellanmål02.md)
 * [Kantarelltoast med färskost och sidfläsk](Mellanmål03.md)
 * [Äppelsmulpaj](Mellanmål04.md)
+* [Vitlöksbröd med Vitlökssmör](Mellanmål05.md)
 
 
 ## Desserter
