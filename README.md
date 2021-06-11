@@ -55,6 +55,7 @@
 
 ## Desserter
 * [Vaniljglass med Flarn och Chokladsås](Desserter01.md)
+* [Pannacotta](Desserter02.md)
 
 ## Specialkoster
 
