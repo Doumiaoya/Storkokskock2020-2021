@@ -69,6 +69,7 @@
 * [Kanelbullar](Desserter05.md)
 * [Kolakakor](Desserter06.md)
 * [Syltkakor](Desserter07.md)
+* [Schackrutor](Desserter08.md)
 
 ## Specialkoster
 
