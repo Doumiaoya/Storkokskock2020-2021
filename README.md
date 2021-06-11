@@ -67,6 +67,7 @@
 * [Maräng](Desserter03.md)
 * [Fruktsallad](Desserter04.md)
 * [Kanelbullar](Desserter05.md)
+* [Kolakakor](Desserter06.md)
 
 ## Specialkoster
 
