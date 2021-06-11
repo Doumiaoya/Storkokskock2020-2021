@@ -56,6 +56,7 @@
 * [Vitlöksbröd med Vitlökssmör](Mellanmål05.md)
 * [Pannkakor](Mellanmål06.md)
 * [American pancakes](Mellanmål07.md)
+* [Våfflor](Mellanmål08.md)
 
 
 ## Desserter
