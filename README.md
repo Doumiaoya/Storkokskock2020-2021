@@ -57,6 +57,7 @@
 * [Vaniljglass med Flarn och Chokladsås](Desserter01.md)
 * [Pannacotta](Desserter02.md)
 * [Maräng](Desserter03.md)
+* [Fruktsallad](Desserter04.md)
 
 ## Specialkoster
 
