@@ -51,3 +51,6 @@ tjocka skivor.
 vänd runt. Krydda med salt och peppar.
 
 ### Kokt potatis
+
+#### Gör så här:
+Koka potatisen på 110C ånga i ugnen i ca 20 minuter
