@@ -26,6 +26,7 @@
 * [Halstrad lättgravad lax med dillstuvad potatis,hovmästarsås/Béchamelsås samt tomat och löksallad](Matratter22.md)
 * [Havets Wallenbergare, skagenröra,råstekt broccoli och kokt potatis](Matratter23.md)
 * [Kikärtsplättar med fetaostkräm](Matratter24.md)
+* [Quiche Lorraine - Paj](Matratter25.md)
 
 ## Såser
 * [Kalla emulsionssåser](Såser01.md)
