@@ -66,6 +66,7 @@
 * [Pannacotta](Desserter02.md)
 * [Maräng](Desserter03.md)
 * [Fruktsallad](Desserter04.md)
+* [Kanelbullar](Desserter05.md)
 
 ## Specialkoster
 
