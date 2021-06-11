@@ -53,5 +53,8 @@
 * [Kantarelltoast med färskost och sidfläsk](Mellanmål03.md)
 
 
+## Desserter
+* [Vaniljglass med Flarn och Chokladsås](Desserter01.md)
+
 ## Specialkoster
 
