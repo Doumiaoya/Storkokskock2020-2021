@@ -48,6 +48,7 @@
 
 ## Mellanmål
 * [Skagenröra](Mellanmål01.md)
+* [Friterad lök](Mellanmål02.md)
 
 
 ## Specialkoster
