@@ -1,4 +1,4 @@
-## Halstrad lättgravad lax med dillstuvad potatis,hovmästarsås samt tomat och löksallad.
+## Halstrad lättgravad lax med dillstuvad potatis,hovmästarsås/Béchamelsås samt tomat och löksallad.
  DAG. 1
 ### Lättgravad lax ca 10 portioner
 * 1st hel laxfilé
@@ -36,6 +36,24 @@ aktiveras. Ställ sedan in i kylen och låt stå i ca: 1 dygn eller över natten
 1. Rör ihop alla ingredienser utom dillen och oljan. Droppa ner oljan under vispning. Tycker du
 att såsen är för tjock, späd med ytterligare lite vatten.
 2. Hacka dillen fint och rör ner. Ställ hovmästarsåsen kallt att mogna några timmar
+
+### Béchamelsås (vit grundsås) 5dl
+#### Ingredienser
+* 25 g Smör
+* 30 g Vetemjöl
+* 3 dl Mjölk
+* 2dl Grädde
+* ½ tsk Salt
+* En nypa Vitpeppar malen
+
+#### Gör så här
+1. Bottenredning – smält smöret i en tjockbottnad kastrull på medelvärme, pudra i
+vetemjölet, vispa med ballongvispen tills inga klumpar återstår.
+2. Häll i mjölken och vispa, tillsätt grädden. Vispa, låt sjuda ca 10 minuter.
+Såsen måste koka upp för att redningen skall aktiveras helt och bli tjock. Blir såsen för tjock
+kan man spä med lite mer mjölk.
+3. Smaka av med salt vitpeppar, var försiktig med vitpeppar då denna peppar är starkare i
+smaken än svartpeppar.
 
 ### Dillstuvad potatis
 * Kokt, delad potatis
