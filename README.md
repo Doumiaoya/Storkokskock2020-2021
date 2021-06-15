@@ -50,6 +50,8 @@
 * [Potatissallad med äpple, pepparrot och purjolök](Sallader03.md)
 * [Tabbouleh](Sallader04.md)
 * [Ceasarsallad](Sallader05.md)
+* [Räksallad](Sallader06.md)
+* 
 * 
 * [Tomatsalsa](Sallader09.md)
 * [Ljummen potatissallad (Fransk potatissallad)](Sallader10.md)
