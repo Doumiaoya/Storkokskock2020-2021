@@ -47,6 +47,7 @@
 ## Sallader
 * [Pizzasallad](Sallader01.md)
 * [Coleslaw](Sallader02.md)
+* [Potatissallad med äpple, pepparrot och purjolök](Sallader03.md)
 * 
 * [Tomatsalsa](Sallader09.md)
 * [Ljummen potatissallad (Fransk potatissallad)](Sallader10.md)
