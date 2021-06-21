@@ -86,4 +86,5 @@
 * [Vegetarisk masalagryta med Raita och papadam](Specialkoster01.md)
 * [Ost och broccolipaj](Specialkoster02.md)
 * [Pannbiff, vegansk](Specialkoster03.md)
+* [Risotto med skogschampinjoner](Specialkoster04.md)
 
