@@ -87,4 +87,5 @@
 * [Ost och broccolipaj](Specialkoster02.md)
 * [Pannbiff, vegansk](Specialkoster03.md)
 * [Risotto med skogschampinjoner](Specialkoster04.md)
+* [Cannelloni med tomatsås och ädelost](Specialkoster05.md)
 
