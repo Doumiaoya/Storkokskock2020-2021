@@ -89,4 +89,5 @@
 * [Risotto med skogschampinjoner](Specialkoster04.md)
 * [Cannelloni med tomatsås och ädelost](Specialkoster05.md)
 * [Vårrullar med Sojadipp och råstekt broccoli](Specialkoster06.md)
+* [Vegetarisk lasagne](Specialkoster07.md)
 
