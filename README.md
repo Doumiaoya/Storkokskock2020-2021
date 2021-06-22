@@ -91,4 +91,5 @@
 * [Vårrullar med Sojadipp och råstekt broccoli](Specialkoster06.md)
 * [Vegetarisk lasagne](Specialkoster07.md)
 * [Frittata med blomkål](Specialkoster08.md)
+* [Crêpes med svampfyllning](Specialkoster09.md)
 
