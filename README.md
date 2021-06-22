@@ -90,4 +90,5 @@
 * [Cannelloni med tomatsås och ädelost](Specialkoster05.md)
 * [Vårrullar med Sojadipp och råstekt broccoli](Specialkoster06.md)
 * [Vegetarisk lasagne](Specialkoster07.md)
+* [Frittata med blomkål](Specialkoster08.md)
 
