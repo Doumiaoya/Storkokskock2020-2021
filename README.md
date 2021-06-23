@@ -93,4 +93,5 @@
 * [Frittata med blomkål](Specialkoster08.md)
 * [Crêpes med svampfyllning](Specialkoster09.md)
 * [Halloumi Stroganoff](Specialkoster10.md)
+* [Indisk kikärtsgryta](Specialkoster11.md)
 
