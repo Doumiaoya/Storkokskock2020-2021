@@ -1,15 +1,15 @@
-## Halloumi Stroganoff, 4 port
+## Halloumi Stroganoff - 4 port
 
 #### Ingredienser:
 * 400 g halloumi
 * 1 gul lök
 * 2 röda paprikor
 * olja till stekning
-* 3 msk tomatpur 
+* 3 msk tomatpure
 * 200 g champinjoner
 * 1 msk japansk soja
-* 2 msk koncentrerad gr nsaksfond
-* 1 1/2  dl vatten
+* 2 msk koncentrerad grönsaksfond
+* 1 1/2 dl vatten
 * 3 dl vispgrädde
 * 1 msk vitvinsvinäger
 * salt
