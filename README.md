@@ -94,4 +94,5 @@
 * [Crêpes med svampfyllning](Specialkoster09.md)
 * [Halloumi Stroganoff](Specialkoster10.md)
 * [Indisk kikärtsgryta](Specialkoster11.md)
+* [Morotsfalafel med äppeltzatziki och Pitabröd](Specialkoster12.md)
 
