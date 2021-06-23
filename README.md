@@ -98,4 +98,5 @@
 * [Ugnsbakad aubergine med quornfärsröra](Specialkoster13.md)
 * [Ugnsbakad rödbeta med rotselleripur och Picklad schalotten](Specialkoster14.md)
 * [Ugnspannkaka med svamp och purjo](Specialkoster15.md)
+* [Vegetariska Piroger](Specialkoster16.md)
 
