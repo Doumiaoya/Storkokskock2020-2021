@@ -95,4 +95,5 @@
 * [Halloumi Stroganoff](Specialkoster10.md)
 * [Indisk kikärtsgryta](Specialkoster11.md)
 * [Morotsfalafel med äppeltzatziki och Pitabröd](Specialkoster12.md)
+* [Ugnsbakad aubergine med quornfärsröra](Specialkoster13.md)
 
