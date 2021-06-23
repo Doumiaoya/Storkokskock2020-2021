@@ -96,4 +96,5 @@
 * [Indisk kikärtsgryta](Specialkoster11.md)
 * [Morotsfalafel med äppeltzatziki och Pitabröd](Specialkoster12.md)
 * [Ugnsbakad aubergine med quornfärsröra](Specialkoster13.md)
+* [Ugnsbakad rödbeta med rotselleripur och Picklad schalotten](Specialkoster14.md)
 
