@@ -4,7 +4,7 @@
 ### Kalops - 6personer
 
 #### Ingredienser:
-* 1 kg nötkött, t ex bog eller högrev (1 1/2 kg med ben)
+* 1 kg nötkött, t.ex bog eller högrev (1 1/2 kg med ben)
 * 200 gram morötter
 * 2 st gula lökar
 * 3 msk kalvfond, koncentrerad
