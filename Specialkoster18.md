@@ -1,6 +1,8 @@
-Risotto med rostad blomkål, gröna ärtor och sparris
+### Risotto med rostad blomkål, gröna ärtor och sparris
 
-1. Fond: skala och dela schalottenlök och rosta på spisen.
+#### Gör så här:
+ 
+1. Skala och dela schalottenlök och rosta på spisen.
 2. Bryt sparrisen och använd botten till fond.
 3. Blanda löken, sparrisbotten och andra bra grönsaker vi kan hitta i en kastrull och koka upp.
 4. Låt sjuda på spisen så att vi får fram så mycket smak som möjligt.
@@ -11,4 +13,5 @@ Risotto med rostad blomkål, gröna ärtor och sparris
 mer fond under tiden).
 9. När riset är klart med rätt tuggmotstånd tar vi det av spisen och lägger i rumsvarmt smör.
 10. Rör runt ordentligt och tillsätt sedan ärtor som krossats i mixern samt små fina buketter av
-rostad blomkål. Avsluta med spänstig blanchad sparris på toppen rikligt med parmesan.
+rostad blomkål. 
+11. Avsluta med spänstig blanchad sparris på toppen rikligt med parmesan.
