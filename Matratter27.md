@@ -61,14 +61,12 @@ beroende på storlek på potatisen.
 * Timjan
 * Mejram
 * Lagerblad
-
 #### Gör så här:
 ##### Ärtor
 1. Skölj och blötlägg ärtorna i rikligt med vatten över natten.
 2. Slå av vattnet, och slå på nytt vatten så att det precis täcker.
 3. Låt koka upp och skumma väl.
 4. Gör en reduktion på = timjan, mejram, och sila i,…
-
 ##### Fläsk / Korv
 1. Lägg i bogen och de hela späckade lökarna (späckad lök = sätt fast lagerblad med nejlikor i löken).
 2. Låt sjuda under lock i c:a 1½ timme, tag upp köttet vid innertemperatur 75°.
