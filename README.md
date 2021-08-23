@@ -27,6 +27,8 @@
 * [Havets Wallenbergare, skagenröra,råstekt broccoli och kokt potatis](Matratter23.md)
 * [Kikärtsplättar med fetaostkräm](Matratter24.md)
 * [Quiche Lorraine - Paj](Matratter25.md)
+* [Chicken à la King](Matratter26.md)
+
 
 ## Såser
 * [Kalla emulsionssåser](Såser01.md)
