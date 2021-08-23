@@ -28,6 +28,7 @@
 * [Kikärtsplättar med fetaostkräm](Matratter24.md)
 * [Quiche Lorraine - Paj](Matratter25.md)
 * [Chicken à la King](Matratter26.md)
+* [Varmsoppa](Matratter27.md)
 
 
 ## Såser
