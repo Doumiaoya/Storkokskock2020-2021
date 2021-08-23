@@ -52,9 +52,8 @@
 * [Ceasarsallad](Sallader05.md)
 * [Räksallad](Sallader06.md)
 * [Sallad Nicoise](Sallader07.md)
-* 
+* [Ljummen potatissallad (Fransk potatissallad)](Sallader08.md)
 * [Tomatsalsa](Sallader09.md)
-* [Ljummen potatissallad (Fransk potatissallad)](Sallader10.md)
 
 
 ## Mellanmål
