@@ -37,8 +37,7 @@
 11. Lägg upp på fat eller servera direkt på tallrik med önskade tillbehör. Du kan även vika ihop kanterna till en fyrkant till serveringen. Pudra eventuellt över lite florsocker om du vill. Servera med valfria tillbehör. Eller fyll som nedan förslag.
 
 ##### Fyllning: 
-1. Ansa och skiva svampen. fräs i en kastrull med smör. Strö över
-mjölet och rör om med träslev (torrredning). 
+1. Ansa och skiva svampen. fräs i en kastrull med smör. Strö över mjölet och rör om med träslev (torrredning). 
 2. Späd med vatten och rör stuvningen slät. 
 3. Tillsätt grönsaksbuljong, vin och späd med grädde. 
 4. Sjud under omr rning i minst 10 minuter. 
