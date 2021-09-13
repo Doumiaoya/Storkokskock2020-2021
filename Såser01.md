@@ -59,3 +59,15 @@ konsistensen kan du späda med lite vatten.
 1. Finhacka pickels antingen med kniv eller i maskin.
 2. Blanda pickels med majonnäs och curry.
 3. Smaka av med salt.
+
+
+### Kall sås, ca 2 port
+* 1 knippa dill
+* 2 dl creme fraiche
+* 1 mst majonnäs
+
+#### Gör så här
+1. hacka dillen fint
+2. häll creme fraichen i skålen
+3. klicha i en matshed majonnäs i creme fraichen.
+4. rör ned dillen i såsen
